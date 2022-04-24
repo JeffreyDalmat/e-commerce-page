@@ -1,0 +1,14 @@
+node_modules/
+dist/
+
+.DS_Store
+Thumbs.db
+
+yarn-error.log
+
+README-template.md
+README-main.md
+
+design/
+style-guide.md
+index.html
